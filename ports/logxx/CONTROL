@@ -1,0 +1,6 @@
+Source: logxx
+Version: 0.0.1
+Homepage: 
+Description: Evolved, prefixed logging wrapper for spdlog.
+Build-Depends: spdlog
+Default-Features:
